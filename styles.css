@@ -1,7 +1,7 @@
 /* Step 1: Define color variables using hex values or rgb values */
 :root { 
     /* 1a -  a primary color */
-    --primary-color: #388e3c; 
+    --primary-color: rgb(0, 255, 0); 
     /* 1b -  a secondary color */ 
     --secondary-color: #ff0000; 
     /* 1c -  a text color */ 
